@@ -21,8 +21,10 @@ import static com.quintus.labs.firebasenotify.app.Config.TOPIC_GLOBAL;
 
 
 /**
- * Created by Santosh Dash on 28/04/19.
- * www.quintuslabs.info
+ * Firebase-Notification
+ * https://github.com/quintuslabs/Firebase-Notification
+ * Created on 28/04/19..
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 

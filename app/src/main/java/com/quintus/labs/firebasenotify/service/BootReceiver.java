@@ -3,7 +3,12 @@ package com.quintus.labs.firebasenotify.service;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-
+/**
+ * Firebase-Notification
+ * https://github.com/quintuslabs/Firebase-Notification
+ * Created on 28/04/19..
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 public class BootReceiver extends BroadcastReceiver {
 
     @Override

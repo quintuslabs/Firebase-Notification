@@ -24,7 +24,12 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+/**
+ * Firebase-Notification
+ * https://github.com/quintuslabs/Firebase-Notification
+ * Created on 28/04/19..
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 public class MainActivity extends AppCompatActivity {
     private static final int INPUT_FILE_REQUEST_CODE = 1;
     private static final int FILECHOOSER_RESULTCODE = 1;
